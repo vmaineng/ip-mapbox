@@ -41,3 +41,10 @@
     width: 50px;
     cursor: pointer;
   }
+
+  /* CONTAINER */
+
+  .sub-container {
+    color:blueviolet;
+    font-weight: 500;
+  }
