@@ -13,7 +13,7 @@
 .ip-inputs {
     width: 100%;
     height: 250px;
-    background-image: url(../images/pattern-bg-desktop.png);
+    background-image: url(../images/pattern-bg-mobile.png);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
